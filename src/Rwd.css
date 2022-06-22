@@ -1,0 +1,6 @@
+@media screen and (max-width: 425px){
+    .input-wrap {
+        flex-direction: column;
+        
+    }
+}
